@@ -378,9 +378,3 @@ while True:
             pass
     if gameagain is False:
         break
-
-# note: i already knew before how to use classes and oop
-# so i used classes in order to make
-# the code easier for me and more organized
-# i also made sure to use everything that was asked in the program
-# and i think i did a good job!!
